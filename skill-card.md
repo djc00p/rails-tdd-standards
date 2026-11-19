@@ -1,6 +1,6 @@
 ## Description:
 
-Rails TDD Standards provides RSpec testing standards and best practices for Rails applications, including FactoryBot setup, test structure, Rails 8 gotchas, service specs, ActionCable specs, external service stubs, serializer specs, and test commands.
+Rails TDD Standards provides RSpec testing standards and best practices for Rails applications, including FactoryBot setup, test structure, Rails 8 gotchas, service specs, ActionCable specs, external service stubs, serializer specs, test commands, Capybara system spec setup with browser-divergence guidance, and RuboCop gotchas in specs.
 
 This skill is ready for commercial/non-commercial use.
 
